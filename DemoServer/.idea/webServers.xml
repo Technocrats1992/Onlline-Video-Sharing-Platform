@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1aa02bc1-faf7-41d4-b6df-aad4b846f234" name="DemoServer" url="http://infs3202-b51d6e13.zones.eait.uq.edu.au">
+        <fileTransfer host="infs3202-b51d6e13.zones.eait.uq.edu.au" port="22" rootFolder="/var/www/htdocs/Demo" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
